@@ -1,0 +1,2 @@
+# Rent-a-Car-Center
+ Since my aim is to understand object-oriented programming, I made a project called Rent a Car Center, which is based on object-oriented programming in Java language. I used Rent a Car object, Car object, User objects and ArrayLists holding these objects. I performed the encapsulation process. In addition, since each element in the ArrayLists is an object, I override the toString() method in some places. Finally, I asked the user to confirm the account. You can review the images of the console output.
